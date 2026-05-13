@@ -2,7 +2,7 @@
 document.getElementById("year").textContent = new Date().getFullYear();
 
 // API URL (your backend server)
-const API_URL = 'http://localhost:5000/api/transactions';
+const API_URL = '/api/transactions';
 
 // Get references to HTML elements
 const form = document.getElementById('transaction-form');
