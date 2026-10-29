@@ -2,7 +2,7 @@
 
 A modern, responsive full-stack personal finance application built to monitor daily cash flow, analyze expense distributions, and log monetary records in real-time. Migrated from a monolithic Vanilla JS setup into an enterprise-ready, decoupled MERN architecture with a responsive dark fintech theme.
 
-**Live Demo:** personalfinancedashboardapp.netlify.app
+**Live Demo:** [Live App Link](https://personalfinancedashboardapp.netlify.app/)
 
 
 ## Screenshot
